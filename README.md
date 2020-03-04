@@ -1,2 +1,8 @@
 # python-zero-to-hero
-Python Zero To Hero Udemy Course Series.
+
+```
+  Introduction 
+```
+
+- Curriculum Overview
+- Python 2 vs Python 3
